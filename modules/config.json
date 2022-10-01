@@ -1,0 +1,7 @@
+{ 
+    "modes": ["FILE_IO", "COMMAND_LINE_ONLY", "COMMAND_LINE_FILEOUT"],
+    "default_output_path": "modules",
+    "default_output_filename": "league_ranker_results",
+    "default_output_extension": ".txt",
+    "valid_file_extensions": [".txt", ".md", ".rtf"]
+}
